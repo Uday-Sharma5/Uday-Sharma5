@@ -9,8 +9,9 @@
 ###  
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Mooli&weight=700&size=25&duration=4000&pause=3000&color=00A000&background=FFFFFF00&width=1000&center=true&vCenter=true&lines=🚀+Aspiring+Full-Stack+Web+Developer+%7C%7C+B.Tech+CSE+Final+Year" alt="Typing SVG" />
+ <img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=84C2C0&center=true&vCenter=true&width=650&lines=Aspiring+JavaScript+Full+Stack+Web+Developer" 
+  alt="Typing SVG" />
   </a>
 </p>
 
